@@ -1,8 +1,6 @@
 # Theme metadata
 name = "Forest"
 
-light = true 
-
 [light]
   # Primary
   primary = "#4caf50"
